@@ -22,7 +22,7 @@ npm init -y
 
 ### Explication :
 
-`npm init` : Initialise un nouveau projet Node.js et crée un fichier package.json.
+`npm init` : Initialise un nouveau projet Node.js et crée un fichier package.json. \
 `-y` : Cette option répond automatiquement "oui" aux questions par défaut, ce qui accélère l'initialisation.
 
 [!NOTE] Le fichier package.json est essentiel, il contient des informations sur le projet et ses dépendances.
