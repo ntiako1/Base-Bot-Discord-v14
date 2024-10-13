@@ -48,18 +48,18 @@ npm install discord.js mongoose dotenv
 
 ## Étape 3 : Explication des dossiers et fichiers
 > [!NOTE]
-> Actuellement votre projet doit ressembler à ceci:
+> Actuellement votre projet doit ressembler à ceci: \
 ![alt text](./Images/image.png)
 
 > [!NOTE]
 > Vous ne retrouverez pas le dossier node_modules dans ce GitHub mais il doit être présent dans votre projet
-> Et dans votre package.json, vous devez avoir ceci:
+> Et dans votre package.json, vous devez avoir ceci: \
 ![alt text](./Images/image-1.png)
 
 
-- /node_modules : Dossier généré par npm contenant les modules installés. Ne pas le modifier.
-- package.json : Fichier généré par npm init, il répertorie les dépendances du projet et les scripts npm.
-- package-lock.json : Généré par npm, il verrouille les versions exactes des dépendances installées.
+- **/node_modules** : Dossier généré par npm contenant les modules installés. Ne pas le modifier.
+- **package.json** : Fichier généré par npm init, il répertorie les dépendances du projet et les scripts npm.
+- **package-lock.json** : Généré par npm, il verrouille les versions exactes des dépendances installées.
 
 ---
 
