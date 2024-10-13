@@ -25,7 +25,8 @@ npm init -y
 `npm init` : Initialise un nouveau projet Node.js et crée un fichier package.json. \
 `-y` : Cette option répond automatiquement "oui" aux questions par défaut, ce qui accélère l'initialisation.
 
-[!NOTE] Le fichier package.json est essentiel, il contient des informations sur le projet et ses dépendances.
+> [!NOTE]
+> Le fichier package.json est essentiel, il contient des informations sur le projet et ses dépendances.
 
 ---
 
@@ -46,12 +47,13 @@ npm install discord.js mongoose dotenv
 ---
 
 ## Étape 3 : Explication des dossiers et fichiers
-[!NOTE] Actuellement votre projet doit ressembler à ceci:
+> [!NOTE]
+> Actuellement votre projet doit ressembler à ceci:
 ![alt text](./Images/image.png)
-[!NOTE] Vous ne retrouverez pas le dossier node_modules dans ce GitHub mais il doit être présent dans votre projet
 
-
-Et dans votre package.json, vous devez avoir ceci:
+> [!NOTE]
+> Vous ne retrouverez pas le dossier node_modules dans ce GitHub mais il doit être présent dans votre projet
+> Et dans votre package.json, vous devez avoir ceci:
 ![alt text](./Images/image-1.png)
 
 
