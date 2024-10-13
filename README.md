@@ -52,8 +52,8 @@ npm install discord.js mongoose dotenv
 ![alt text](./Images/image.png)
 
 > [!NOTE]
-> Vous ne retrouverez pas le dossier node_modules dans ce GitHub mais il doit être présent dans votre projet
-> Et dans votre package.json, vous devez avoir ceci: \
+> Vous ne retrouverez pas le dossier node_modules dans ce GitHub mais il doit être présent dans votre projet. \
+> Votre package.json doit ressembler à ceci[^1]: \
 ![alt text](./Images/image-1.png)
 
 
@@ -65,3 +65,5 @@ npm install discord.js mongoose dotenv
 
 ## Prochaines étapes
 - Préparer les fichiers de base pour enfin coder.
+
+[^1]: Il est possible que vous n'ayez pas exactement le même contenue que nous. Cela est normal !
