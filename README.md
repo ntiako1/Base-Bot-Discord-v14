@@ -2,7 +2,7 @@
 
 *Ce projet est une base pour un bot Discord utilisant discord.js v14 et MongoDB. Le dépôt inclut la structure de base, l'initialisation du projet et l'installation des dépendances nécessaires pour commencer à développer.*
 
-[!CAUTION]
+> [!CAUTION]
 ## Prérequis
 
 Avant de commencer, assurez-vous d’avoir installé les outils suivants :
