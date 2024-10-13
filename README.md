@@ -3,15 +3,12 @@
 *Ce projet est une base pour un bot Discord utilisant discord.js v14 et MongoDB. Le dépôt inclut la structure de base, l'initialisation du projet et l'installation des dépendances nécessaires pour commencer à développer.*
 
 > [!CAUTION]
-> Test
-## Prérequis
-
-Avant de commencer, assurez-vous d’avoir installé les outils suivants :
-
-- [Node.js](https://nodejs.org/fr) : Version 16 ou plus récente.
-- [Git](https://git-scm.com/downloads) : Pour cloner et gérer le dépôt.
-- [MongoDB](https://www.mongodb.com/fr-fr/cloud/atlas/register) : Base de données pour stocker les informations de manière persistante.
-- [VS Code](https://code.visualstudio.com/download) : (Recommandé) pour l'édition du code.
+> Prérequis
+> Avant de commencer, assurez-vous d’avoir installé les outils suivants :
+> - [Node.js](https://nodejs.org/fr) : Version 16 ou plus récente.
+> - [Git](https://git-scm.com/downloads) : Pour cloner et gérer le dépôt.
+> - [MongoDB](https://www.mongodb.com/fr-fr/cloud/atlas/register) : Base de données pour stocker les informations de manière persistante.
+> - [VS Code](https://code.visualstudio.com/download) : (Recommandé) pour l'édition du code.
 
 ---
 
